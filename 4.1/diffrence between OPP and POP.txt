@@ -1,0 +1,3 @@
+
+OOP and POP differ in their approach to software design and implementation. OOP is based on objects and classes, while POP is based on procedures or functions.
+OOP aims to create reusable and modular code, while POP focuses on breaking down problems into smaller tasks and writing functions to solve those tasks.
